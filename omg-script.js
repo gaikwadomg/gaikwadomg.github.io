@@ -1,4 +1,4 @@
-/* ===========================toggle icon navbar =====================*/
+// /* ===========================toggle icon navbar =====================*/
 
   let menuIcon = document.querySelector('#menu-icon');
   let navbar = document.querySelector('.navbar');
@@ -43,7 +43,7 @@
 
         header = document.querySelector('header');
 
-        header.classList.togger('sticky', window.scrollY > 100);
+        header.classList.toggle('sticky', window.scrollY > 100);
         
     };
 
@@ -60,13 +60,13 @@
     };
 
 
-     /* ===========================scroll reveal=====================*/
+//      /* ===========================scroll reveal=====================*/
    
      ScrollReveal({
         reset: true,
-        distance: '80px',
+        distance: '10px',
         duration: 2000,
-        delay:200
+        delay:200,
      });
 
 
