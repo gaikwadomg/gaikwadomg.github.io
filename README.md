@@ -1,6 +1,6 @@
 # omgaikwad.tech Portfolio Website
 
-![Project Logo or Image if available](../logo.png)
+![Project Logo or Image if available](https://github.com/gaikwadomg/portfolio/blob/main/logo.png)
 
 ## Description
 
