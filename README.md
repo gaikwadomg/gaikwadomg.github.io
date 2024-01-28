@@ -9,6 +9,8 @@ Welcome to the Portfolio Website Project! This project is designed to help you c
 
 The Portfolio Website Project is aimed at providing you with a platform to highlight your professional achievements and present your work in an organized and visually appealing manner. Whether you're a web developer, designer, writer, or any other professional, having a portfolio website can greatly enhance your online presence and help you stand out in your field.
 
+<img src="profileom.jpg" alt="prj1"></img>
+
 ## Features
 
 1. **Responsive Design:** The website should be accessible and visually appealing across various devices and screen sizes, including desktops, laptops, tablets, and smartphones.
