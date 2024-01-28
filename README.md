@@ -30,5 +30,5 @@ The Portfolio Website Project is aimed at providing you with a platform to highl
 
 ## Getting Started
 
-1. **Clone the Repository:**
+1. **Clone the Repository:**https://github.com/gaikwadomg/portfolio.git
 2. **Open index.html file**
