@@ -24,9 +24,9 @@ The Portfolio Website Project is aimed at providing you with a platform to highl
 
 - HTML/CSS: For structuring and styling the website.
 - JavaScript: For interactivity and dynamic elements.
-- Frameworks or Libraries (Optional): Such as Bootstrap, jQuery, etc., for streamlining development.
-- Backend (Optional): If you choose to incorporate dynamic content or a contact form that requires server-side processing, you may need a backend technology like Node.js, Flask, etc.
-- Hosting: Choose a platform to host your website, such as GitHub Pages, Netlify, etc.
+- Frameworks / Libraries :  Bootstrap
+
+- Hosting: GitHub Pages and Netlify.
 
 ## Getting Started
 
