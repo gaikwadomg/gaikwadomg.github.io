@@ -299,6 +299,12 @@
       flex-wrap: wrap;
       gap: 2rem;
     }
+    .services-box{
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+    }
 
    .services-container .services-box{
       min-height: 400px;
