@@ -1,34 +1,16 @@
-# Portfolio Website Project
+# React + Vite
 
-Welcome to the Portfolio Website Project! This project is designed to help you create a personalized portfolio website to showcase your skills, projects, and experiences to potential employers, clients, or collaborators.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
- **Check Out My Project :** [omgaikwad.tech](https://omgaikwad.tech/)
+Currently, two official plugins are available:
 
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## Project Overview
+## React Compiler
 
-The Portfolio Website Project is aimed at providing you with a platform to highlight your professional achievements and present your work in an organized and visually appealing manner. Whether you're a web developer, designer, writer, or any other professional, having a portfolio website can greatly enhance your online presence and help you stand out in your field.
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-<img src="profileom.jpg" alt="prj1"></img>
+## Expanding the ESLint configuration
 
-## Features
-
-1. **Responsive Design:** The website should be accessible and visually appealing across various devices and screen sizes, including desktops, laptops, tablets, and smartphones.
-2. **Navigation:** Users should be able to easily navigate through different sections of the website, such as About Me, Projects, Contact, etc.
-3. **Project Showcase:** Display your projects prominently, providing descriptions, images, and links to further details or live demos.
-4. **About Me Section:** Introduce yourself, your background, skills, and any other relevant information.
-5. **Contact Form:** Allow visitors to contact you directly through a contact form or provide alternative means of communication.
-6. **Customization:** The website should be easily customizable to reflect your personal branding and style preferences.
-
-## Technologies Used
-
-- HTML/CSS: For structuring and styling the website.
-- JavaScript: For interactivity and dynamic elements.
-- Frameworks / Libraries :  Bootstrap
-
-- Hosting: GitHub Pages and Netlify.
-
-## Getting Started
-
-1. **Clone the Repository:** https://github.com/gaikwadomg/portfolio.git
-2. **Open index.html file**
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
