@@ -61,10 +61,10 @@ const Hero = () => {
             <div style={{ position: 'relative', width: '100%', maxWidth: '450px' }}>
               <div style={{ position: 'absolute', inset: '-10px', background: 'linear-gradient(135deg, var(--primary), var(--accent))', filter: 'blur(30px)', opacity: 0.15, borderRadius: '50%' }}></div>
               <img 
-                src="/new-profile.jpg" 
+                src="/omk.png" 
                 alt="Om Gaikwad" 
                 style={{ width: '100%', height: 'auto', borderRadius: '24px', position: 'relative', zIndex: 1, border: '1px solid rgba(255,255,255,0.8)', boxShadow: '0 25px 50px -12px rgba(0,0,0,0.1)' }} 
-                onError={(e) => { e.target.src='/omk.png' }}
+                onError={(e) => { e.target.src='/omk.jpg' }}
               />
               
               <motion.div 
